@@ -2,7 +2,7 @@
 This challenge is part of free internship (Fullstack Engineer) offered by [CyberDude Networks Pvt. Ltd.](https://cyberdudenetworks.com) You can find all the source code and live links below.
 
 
->## Task #2: Create a Object for Customer Details Display and Logging condition with CRUD operation
+>## Task #3: Create a Object for Customer Details Display and Logging condition with CRUD operation
 
 ### Customer Details Display and Logging"
 
