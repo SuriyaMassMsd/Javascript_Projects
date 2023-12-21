@@ -1,0 +1,161 @@
+#login{
+    background: linear-gradient(to right, #662d8c, #ed1e79);
+   background-clip: text;
+    color: transparent;
+    transition: color 0.3s ease;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+#passcheck{
+    /* background: linear-gradient(to right, #662d8c, #ed1e79); */
+   background-clip: text;
+    color: transparent;
+    transition: color 0.3s ease;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    color: black;
+    
+}
+
+#passcheck:hover{
+    color: rgb(179, 255, 0);
+}
+
+#name , #password , #email{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #e5e7eb;
+
+}
+
+#name:focus{
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right, #662d8c, #e100ff ,#ed1e79)1;
+    border-image-slice: 1;
+}
+
+#password:focus{
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right, #662d8c, #e100ff ,#ed1e79)1;
+    border-image-slice: 1;
+}
+
+#email:focus{
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right, #662d8c, #e100ff ,#ed1e79)1;
+    border-image-slice: 1;
+}
+
+#border{
+    border-bottom: 2px solid rgb(54, 48, 48);
+
+}
+
+
+#passrec{
+    background-color: black;
+   
+}
+
+#passrec:hover{
+    background: linear-gradient(to right, #662d8c, #e100ff ,#ed1e79);
+    color: black;
+    font-weight: bolder;
+    transition: all 0.5s ease;
+}
+
+#btn:hover {
+
+    background: linear-gradient(to right, #662d8c, #e100ff ,#ed1e79);
+    color: black;
+    font-weight: bolder;
+    transition: all 0.5s ease;
+}
+
+#sign:hover{
+    color: black;
+    font-weight: bolder;
+    transition: all 0.5s ease;
+}
+
+#login:hover{
+    color: black;
+}
+
+#forgot{
+    margin-top: 10px;
+    margin-left: 0%;
+    margin-left: 320px;
+    color: #e100ff;
+}
+
+#create{
+    margin-top: 10px;
+    margin-left: 0%;
+    margin-left: 320px;
+    color: #e100ff;
+    /* margin-bottom: 55px; */
+}
+
+#forgot:hover{
+    color: #2f2d8c;
+}
+
+#create:hover{
+    color: #2f2d8c;
+    
+}
+
+#valid{
+    color: green;
+    display: flex;
+    justify-content: center;
+  
+    /* font-weight: 500; */
+}
+
+#recoverbtn{
+    padding: 0%;
+    margin-bottom: 10px;
+}
+
+#loginlink{
+    margin-bottom: 20px;
+    /* margin-top: 0px; */
+
+}
+
+#loginlink:hover{
+    color: #e100ff;
+}
+
+#webapp{
+    color: white;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+
+#video{
+    width: 800px;
+    height: 400px;
+    margin-top: 100px;
+     /* margin-left: 200px; */
+    /* height: 800px; */
+    /* display: flex; */
+    /* margin-left: 200px; */
+    justify-content: center;
+  /* margin-top: -200px; ; */
+    /* margin-right: -200px; */
+    align-items: center;
+}
