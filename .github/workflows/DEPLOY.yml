@@ -44,6 +44,7 @@ jobs:
         working-directory: Javascript-Dom/01.forms/
       - name: Setup Pages
         uses: actions/configure-pages@v3
+        working-directory: Javascript-Dom/01.forms/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
