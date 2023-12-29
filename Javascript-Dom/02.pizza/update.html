@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/custom.css" />
+    <title >Pizza Hut</title>
+  </head>
+  <body>
+    <div class="bg-purple-700 min-h-screen p-10">
+
+      <!-- <section class="flex justify-around items-center mb-2 -mt-6">
+        <div class="flex justify-center items-center space-x-3 -ml-8">
+          <img src="./public/logo.png" class="w-20 h-20" alt="logo" />
+          <h1
+            class="text-4xl font-bold text-center text-white cursor-pointer hover:text-yellow-400"
+          >
+            Pizza Hut
+          </h1>
+        </div>
+
+        <ul class="flex space-x-6">
+          <li class="navbar">Home</li>
+          <li  class="navbar" >About Us</li>
+          <li class="navbar" >Offers</li>
+          <li class="navbar">Contact</li>
+        </ul>
+        <div class="flex justify-center items-center">
+          <a href="#Order">
+            <button
+            type="submit"
+            class="bg-[#ff0054] px-10 py-3 font-bold rounded text-lg text-white hover:bg-[#4da802] hover:text-black transition-all ease-in-out"
+            id="btn"
+          >
+            Order now
+          </button>
+          </a>
+        </div> 
+      </section> -->
+    
+      <!-- <div class="flex justify-between items-center -mt-10">
+        <img src="./public/top-cover.png" alt="top-cover" class="py-20 -ml-20" />
+        <h1
+        class="text-8xl font-bold text-center text-[#d90429] cursor-pointer"
+      >
+        Pizza Hut
+      </h1>
+        <img src="./public/background.png" id="bg" alt="bg-image" />
+      </div> -->
+      <section class="mt-10" id="Order">
+
+        <h1 
+        class="text-8xl font-bold text-center text-[#be0aff] cursor-pointer"
+       id="stroke">
+       Update Your Order Details
+      </h1>
+        <div class="bg-white mx-auto max-w-lg p-5 rounded-md">
+          <div class="flex justify-center items-center space-x-3 -ml-8">
+            <img src="./public/logo.png" class="w-20 h-20" alt="logo" />
+            <h1
+              class="text-4xl font-bold text-center text-[#d90429] cursor-pointer"
+            >
+              Pizza Hut
+            </h1>
+          </div>
+  
+          <div class="flex justify-center items-center">
+            <h1 class="text-center my-5 text-2xl font-semibold text-gray-600">
+              Change Your Details
+            </h1>
+            <img src="./public/hand-160538_640.png" class="w-30 h-14 -mt-6" alt="logo" />
+          </div>
+  
+          <form class="my-5 space-y-5" id="pizza-hut">
+            <div class="grid grid-cols-2 gap-10">
+              <input
+                type="text"
+                name="firstName"
+                placeholder="First Name"
+                class="input-style"
+                id="firstName"
+              />
+              <input
+                type="text"
+                name="lastName"
+                placeholder="Last Name"
+                class="input-style"
+                id="lastName"
+              />
+            </div>
+  
+            <h1 class="font-sans my- text-xl font-bold text-gray-600">
+              Contact Details
+            </h1>
+            <div class="grid grid-cols-2 gap-10">
+              <input
+                type="number"
+                name="phoneNo"
+                placeholder="Phone number"
+                class="input-style w-full"
+                id="phoneNumber"
+              />
+              <input
+                type="email"
+                name="email"
+                id="email"
+                placeholder="Email Address"
+                class="input-style w-full"
+              />
+            </div>
+  
+            <h1 class="font-sans my- text-xl font-bold text-gray-600">
+              Address Details
+            </h1>
+  
+           <div>
+            <textarea
+            name="Address"
+            class="input-style w-full"
+            cols="3"
+            rows="3"
+            id="add"
+            placeholder="Enter your full address, including street, city, and postal code"
+          ></textarea>
+           </div>
+  
+            <div class="flex justify-center items-center">
+              <button
+                type="submit"
+                class="bg-[#ff0054] px-10 py-3 font-bold rounded text-lg text-white hover:bg-[#4da802] hover:text-black transition-all ease-in-out"
+                id="btn"
+              >
+                Update now
+              </button>
+            </div>
+          </form>
+        </div>
+      </section>
+    </div>
+    <script type="module" src="./assets/js/update.js"></script>
+  </body>
+</html>

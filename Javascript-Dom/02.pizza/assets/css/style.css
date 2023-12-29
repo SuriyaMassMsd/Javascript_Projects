@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.input-style{
+    @apply bg-[#372f30] bg-opacity-10 font-sans outline-none border-none placeholder:text-[#9eabaf] rounded-md px-4 py-2
+}
+
+.navbar{
+ @apply text-2xl text-white hover:text-yellow-400 hover:cursor-pointer
+}

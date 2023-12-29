@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+:root{
+    scroll-behavior: smooth;
+    scroll-timeline: 5s;
+}
+
+body{
+    font-family:'Mynerve', cursive;
+  
+}
+
+
+
+#stroke{
+    font-size: 80px;
+    margin-bottom: 50px;
+
+    color: white;
+     text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+}
+
+#stroke:hover{
+    color: orange;
+    transition: all 0.5s ease-in-out;
+}
+
+#btn:hover{
+    background: linear-gradient(to right, #ff00e4 ,#ed1e79);
+    color: black;
+    font-weight: bolder;
+    transition: all 0.5s ease;
+     
+}
+
+#bg{
+    margin-left: 30px;
+    width: 40%;
+   height: 50%;
+}
+
+/* validation */
+
+.firstName{
+    margin-top: -30px;
+    font-weight: bolder;
+}
+
+.lastName{
+ 
+        margin-top: -30px;
+        font-weight: bolder;
+ 
+}
+
+.phoneNumber{
+    margin-top: -30px;
+    font-weight: bolder;
+}
+
+.email{
+    margin-top: -30px;
+    font-weight: bolder;
+}
+
+.add{
+    /* margin-top: px; */
+    font-weight: bolder;
+}
+
+#pizzaa{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(102, 0, 105);
+    text-align: center;
+}
+
+#edit{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     transition: all 0.4s ease-in-out;
+
+     /* margin-left: 110px; */
+}
+
+#edit:hover{
+
+    background-color: rgb(255, 196, 0);
+    color: black;
+}
+
+#update{
+    background-color: #3cff00;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     transition: all 0.4s ease-in-out;
+}
+
+#update:hover{
+
+    background-color: #000;
+    
+}
+
+#newOrder{
+    background-color: #0044ff;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     padding-bottom: 10px;
+     padding-top: 10px;
+     /* margin-left: 140px; */
+     margin-top: 20px;
+     transition: all 0.4s ease-in-out;
+
+     
+
+}
+
+#newOrder:hover{
+   /* text-decoration: underline; */
+
+   cursor: pointer;
+   color: black;
+   background-color: #ae00ff;
+}
