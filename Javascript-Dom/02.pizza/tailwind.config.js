@@ -5,6 +5,9 @@ export default {
     "./sucess.html",
     "./update.html",
     "./**/*.js",
+    "./assets/js/update.js**/*.js",
+    "./assets/js/cancel.js**/*.js",
+    "./assets/js/main.js**/*.js",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
