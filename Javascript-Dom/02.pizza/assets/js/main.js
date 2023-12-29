@@ -127,7 +127,7 @@ validateForm.onSuccess(function(){
 
 
   formEl.reset()
-  window.location.href = './sucess.html'
+  window.location.href = './success.html'
   
   
 })
