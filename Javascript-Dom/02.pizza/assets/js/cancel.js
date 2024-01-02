@@ -7,13 +7,14 @@ const update = document.getElementById("update")
 cancel.addEventListener('click',function(){
 
     
-    const yourFirstName = prompt("enter your yourFirstName")
+    const yourFirstName = prompt("Enter Your FirstName")
     
 const validateName = localStorage.key(yourFirstName)
 
 
     if(yourFirstName === validateName){
-    localStorage.removeItem(yourFirstName)
+
+      localStorage.removeItem(yourFirstName)
         
     alert('Your Order Is Cancelled')
         
