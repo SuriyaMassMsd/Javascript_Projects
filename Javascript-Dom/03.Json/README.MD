@@ -13,7 +13,7 @@ Get the IP of the visitor.
 
 | 🚧 Build Status  | [![Deploy to GH Pages](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/03.Json/dist/) |
 | ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Live Website: | [https://anburocky3.github.io/Get-My-IP-Web-App/](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/03.Json/dist/)                                                                                            |
+| ✅ Live Website: | [live-link](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/03.Json/dist/)                                                                                            |
 
 ---
 
