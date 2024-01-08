@@ -13,7 +13,7 @@ Get the IP of the visitor.
 
 | 🚧 Build Status  | [![Deploy to GH Pages](https://github.com/anburocky3/Get-My-IP-Web-App/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/Get-My-IP-Web-App/actions/workflows/deploy.yml) |
 | ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Live Website: | [https://anburocky3.github.io/Get-My-IP-Web-App/](https://anburocky3.github.io/Get-My-IP-Web-App/)                                                                                            |
+| ✅ Live Website: | [https://anburocky3.github.io/Get-My-IP-Web-App/](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/03.Json/dist/)                                                                                            |
 
 ---
 
