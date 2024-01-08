@@ -1,0 +1,46 @@
+[
+    {
+        "name":"Muthukumari M",
+        "email":"abi.zoho@gmail.com",
+        "phoneNo":9844893388,
+        "role":"Intern",
+        "status":"Active",
+        "image" : "./images/muthukumarimoorthi.jpg"
+    },
+    {
+        "name":"Gayathri G",
+        "email":"gayathrihg@gmailcom",
+        "phoneNo":7277863738,
+        "role":"Intern",
+        "status":"Active",
+        "image" : "./images/gayathrihg.jpg"
+
+    },
+    {
+        "name":"Khaja Sharif",
+        "email":"sharif22@gmailcom",
+        "phoneNo":8774748383,
+        "role":"Intern",
+        "status":"Active",
+        "image" : "./images/sharif-22.jpg"
+
+    },
+    {
+        "name":"Mohammed Mushkir",
+        "email":"mushkir@gmailcom",
+        "phoneNo":9873838373,
+        "role":"Intern",
+        "status":"Active",
+        "image" : "./images/mushkir.jpg"
+
+    },
+    {
+        "name":"Mohammed Shajid",
+        "email":"mshajid@gmailcom",
+        "phoneNo":874473838,
+        "role":"Intern",
+        "status":"Active",
+        "image" : "./images//mshajid.jpg"
+
+    }
+]
