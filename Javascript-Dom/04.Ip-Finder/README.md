@@ -9,9 +9,7 @@ Get the IP of the visitor.
 
 ## 🎉 Check it yourself!
 
-| 🚧 Build Status  | [![Deploy to GH Pages](https://github.com/anburocky3/Get-My-IP-Web-App/actions/workflows/deploy.yml/badge.svg)](https://github.com/anburocky3/Get-My-IP-Web-App/actions/workflows/deploy.yml) |
-| ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ Live Website: | [https://anburocky3.github.io/Get-My-IP-Web-App/](https://anburocky3.github.io/Get-My-IP-Web-App/)                                                                                            |
+| ✅ Live Website: | [live link](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/04.Ip-Finder/dist/)                                                                                            |
 
 ---
 
