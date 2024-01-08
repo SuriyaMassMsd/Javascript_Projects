@@ -11,8 +11,6 @@ Get the IP of the visitor.
 
 ## 🎉 Check it yourself!
 
-| 🚧 Build Status  | [![Deploy to GH Pages](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/03.Json/dist/) |
-| ---------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ✅ Live Website: | [live-link](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/03.Json/dist/)                                                                                            |
 
 ---
