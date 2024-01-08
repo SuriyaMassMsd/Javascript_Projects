@@ -37,7 +37,7 @@ And you will see the generated file in `dist` that ready to be served.
 
 ### Preview
 
-To preview the build files, run
+To preview the build files, run 
 
 ```bash 
 npm run preview
