@@ -76,7 +76,7 @@ function profileList({
 
   let datas = document.createElement("section");
 
-  datas.classList = "bg-purple-700  p-5 rounded-lg";
+  datas.classList = "bg-[#06647c] p-5 rounded-lg shadow-md shadow-black";
 
   datas.innerHTML = `
     
