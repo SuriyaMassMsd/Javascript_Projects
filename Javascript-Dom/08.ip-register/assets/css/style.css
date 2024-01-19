@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Pacifico&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .input-css{
+      @apply bg-gray-300 p-2 rounded placeholder:text-gray-400 px-4 focus:outline-none;
+    }
+  }
+
+
+  

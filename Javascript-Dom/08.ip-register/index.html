@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- <link rel="icon" type="image/svg+xml" href="/vite.svg" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>Ocean Blue</title>
+  </head>
+  <body class="bg-white">
+    <main>
+      <img
+        class="object-cover w-full absolute h-screen"
+        src="./public/bg-image.jpg"
+        alt="bg-image"
+        id="bg-image"
+      />
+      <section class="relative grid grid-cols-2 justify-center items-center">
+        <div class="flex flex-col">
+          <div>
+            <img
+              src="./public/logo.png"
+              alt="logo"
+              class="pt-3 ml-10 w-[#126px]"
+            />
+          </div>
+
+          <span class="text-blue-700 ml-32 text-lg font-black">VILLAS</span>
+        </div>
+
+        <div>
+          <ul class="flex justify-center items-center gap-12">
+            <li>
+              <a
+                class="text-lg font-semibold text-black hover:text-blue-700 hover:cursor-pointer"
+                href="#"
+                >Home</a
+              >
+            </li>
+            <li>
+              <a
+                class="text-lg font-semibold text-black hover:text-blue-700 hover:cursor-pointer"
+                href="#"
+                >About us</a
+              >
+            </li>
+            <li>
+              <a
+                class="text-lg font-semibold text-black hover:text-blue-700 hover:cursor-pointer"
+                href="#"
+                >Contact</a
+              >
+            </li>
+            <li>
+              <a
+                class="text-lg font-semibold text-black hover:text-blue-700 hover:cursor-pointer"
+                href="#"
+                >Offers</a
+              >
+            </li>
+            <li>
+              <a
+                href="./create.html"
+                class="bg-blue-800 px-4 py-1.5 hover:bg-blue-700 hover:text-black rounded text-white"
+                type="button"
+              >
+                Sign Up
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="relative">
+        <div class="flex flex-col justify-center gap-y-3 mt-12 items-center">
+          <h1 class="font-display text-5xl text-black">Welcome <br /></h1>
+          <span class="text-2xl text-[#0c0f0a] font-display">To</span>
+
+          <span class="text-[100px] font-extrabold text-[#072ac8]"
+            >Ocean Blue Villa Coastal</span
+          >
+          <button
+            class="bg-[#001427] hover:bg-[#002a52] rounded mt-14 px-10 text-center py-4 text-white text-2xl"
+            id="btnAdd"
+          >
+            Book Villa
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <!-- <button class="px-4 pt-2 text-center bg-white text-black">Add</button> -->
+    <div
+      class="z-0 w-[100%] h-screen bg-black hidden opacity-75 -mt-[538px]"
+      id="shadow"
+    ></div>
+    <div
+      class="bg-white z-10 transition-all relative ease-in-out 0.5s hidden -mt-[430px] rounded mx-auto w-[35%] h-[240px]"
+      id="book"
+    >
+      <span
+        class="text-3xl flex justify-end mr-4 hover:cursor-pointer"
+        id="close"
+        >&times;</span
+      >
+
+      <div
+        class="flex px-10 text-center flex-col gap-y-10 justify-center items-center"
+      >
+        <span class="text-lg text-center"
+          >before you need to
+          <a
+            href="./create.html"
+            class="text-lg text-center text-[#001aff] hover:underline"
+            >Create account?</a
+          ></span
+        >
+        <a
+          href="./create.html"
+          class="bg-[#0053cf] hover:bg-blue-800 text-lg font-semibold w-full rounded text-white px-6 py-4"
+          >Create new account</a
+        >
+      </div>
+
+      <span class="flex justify-center items-center mt-7"
+        >Have an account?
+        <a href="./login.html" class="text-blue-800 ml-1.5 font-semibold"
+          >Log in</a
+        ></span
+      >
+    </div>
+
+    <script type="module" src="./assets/js/main.js"></script>
+  </body>
+</html>
