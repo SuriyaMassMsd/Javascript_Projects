@@ -40,7 +40,7 @@ function users(email, password) {
           ipShow.textContent = `Your ip Address : ${ip}`;
         });
       setInterval(function () {
-        window.location.href = "/";
+        window.location.href = "./index.html";
       }, 10000);
       // window.location.href = "./index.html";
     } else {
@@ -53,7 +53,7 @@ function users(email, password) {
 }
 
 closeEl.addEventListener("click", function () {
-  window.location.href = "/";
+  window.location.href = "./index.html";
 });
 
 const imagesArr = [
