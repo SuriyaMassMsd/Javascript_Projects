@@ -18,7 +18,7 @@ Registering viwers ip Address
 
 ## 🎉 Check it yourself!
 
-| ✅ Live Website: | [live-link](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/06.Github-api/dist/) |
+| ✅ Live Website: | [live-link](https://suriyamassmsd.github.io/cyberdude-challenges/Javascript-Dom/08.ip-register/dist/) |
 
 ---
 

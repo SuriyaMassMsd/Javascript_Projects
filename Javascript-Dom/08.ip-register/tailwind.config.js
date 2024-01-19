@@ -3,9 +3,10 @@ export default {
   content: [
     "./index.html",
     "./create.html",
-    "login.html",
+    "./login.html",
     "./assets/js/**/*.js",
     "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/**/*.html",
   ],
   theme: {
     fontFamily: {
