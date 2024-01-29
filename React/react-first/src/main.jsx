@@ -11,6 +11,7 @@ import Adverties from "./pages/Adverties.jsx";
 import Blogs from "./pages/Blogs.jsx";
 import Faqs from "./pages/Faqs.jsx";
 import BlogView from "./pages/BlogsView.jsx";
+import Error from "./components/Error.jsx";
 
 const route = createBrowserRouter([
   {
@@ -50,6 +51,10 @@ const route = createBrowserRouter([
       {
         path: "/faqs",
         element: <Faqs />,
+      },
+      {
+        path: "*",
+        element: <Error />,
       },
     ],
   },

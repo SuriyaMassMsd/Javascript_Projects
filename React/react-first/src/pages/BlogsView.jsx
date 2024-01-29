@@ -9,12 +9,16 @@ function BlogView() {
   });
 
   return (
-    <div className="my-10 max-w-5xl ">
+    <div className="my-10 sm:max-w-5xl ">
       <div className="flex flex-col justify-center items-center">
-        <img src={viewBlog.img} alt="img" className="w-[880px] h-[500px]" />
+        <img
+          src={viewBlog.img}
+          alt="img"
+          className=" w-[400px] sm:w-[880px] sm:h-[500px]"
+        />
 
         <div className="flex flex-col space-y-4 mt-5 ">
-          <div className="flex flex-row gap-[390px]">
+          <div className="flex  flex-col sm:flex-row gap-10 sm:gap-[390px]">
             <div>
               <span className="text-gray-500"> {viewBlog.upload}</span>
             </div>
@@ -147,7 +151,7 @@ function BlogView() {
       </div>
 
       <div className="px-16">
-        <div className="flex items-center gap-2 my-2">
+        <div className="flex items-center gap-2 my-4 sm:my-2">
           <img
             src={viewBlog.logo}
             alt="log"

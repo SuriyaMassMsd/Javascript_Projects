@@ -10,8 +10,8 @@ function Navbar() {
       <div>
         <ul
           className="text-white flex
-        flex-col sm:flex-row mt-4 space-y-2 justify-center items-center 
-        font-semibold sm:space-x-4 sm:flex-wrap sm:space-y-0 md:space-x-14 text-center"
+        flex-col sm:flex-row md:flex-row  mt-4 space-y-2 justify-center items-center 
+        font-semibold sm:space-x-4 sm:flex-wrap sm:space-y-0 md:space-x-12 text-center"
         >
           <li className="cursor-pointer ">
             <NavLink
@@ -103,7 +103,7 @@ function Navbar() {
               Advertise/Partnerships{" "}
             </NavLink>
           </li>
-          <li className="cursor-pointer ">
+          {/* <li className="cursor-pointer ">
             <NavLink
               to={"fags"}
               className={({ isActive }) => `
@@ -117,7 +117,7 @@ function Navbar() {
             >
               FAQs{" "}
             </NavLink>
-          </li>
+          </li> */}
           <div className="flex space-x-4 sm:mt-10">
             <li>
               <svg

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function CartBox() {
   return (
-    <div className="mt-4 ml-8 md:ml-24 mb-10 shadow-2xl max-w-2xl">
+    <div className="mt-4 ml-10 sm:mx-auto md:mx-auto lg:ml-16 mb-10 shadow-2xl max-w-[340px] sm:max-w-2xl">
       <div className=" bg-white rounded-t-lg">
         <div className="">
           <img

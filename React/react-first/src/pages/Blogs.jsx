@@ -8,7 +8,7 @@ function Blogs() {
       <h1 className="text-2xl font-cartFont font-semibold ml-[60px] mt-10">
         Latest
       </h1>
-      <div className="grid grid-cols-2 gap-10 ">
+      <div className="grid grid-row-1 sm:grid-cols-2 gap-10">
         <div>
           <BlogCart />
         </div>

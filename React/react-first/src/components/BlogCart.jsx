@@ -5,7 +5,7 @@ import profile from "../../public/images/profile/proo.jpg";
 
 function BlogCart() {
   return (
-    <div className="mt-4 ml-8 md:ml-14 mb-10 shadow-2xl max-w-xl">
+    <div className="mt-4 mx-auto md:ml-14 mb-10 shadow-2xl max-w-sm sm:max-w-xl ">
       <div className=" bg-white rounded-t-lg">
         <div className="">
           <Carousel />

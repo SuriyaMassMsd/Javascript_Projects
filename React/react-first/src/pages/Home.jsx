@@ -6,10 +6,11 @@ import CartBox from "../components/Cart";
 
 function Home() {
   return (
-    <div className="flex flex-col md:flex-row items-start gap-10 ">
-      <CartBox />
-
-      <div className="relative flex flex-col justify-start mt-3 space-y-4">
+    <div className="mb-10  flex flex-col sm:flex-row md:flex-row gap-16">
+      <div className="flex  items-start gap-10 ">
+        <CartBox />
+      </div>
+      <div className="relative flex flex-col justify-start mt-3 space-y-4 max-w-lg">
         <div className="bg-white rounded-lg p-4">
           <h1 className="text-lg  font-semibold ">Search</h1>
           <div>
@@ -25,7 +26,7 @@ function Home() {
               width="20"
               height="20"
               viewBox="0 0 256 256"
-              className="absolute top-14 right-8"
+              className="absolute top-14 right-20 sm:right-8"
             >
               <path
                 fill="#888888"
@@ -34,7 +35,7 @@ function Home() {
             </svg>
           </div>
         </div>
-        <div className="bg-white mt-4 shadow-xl rounded-lg  flex flex-col pb-4  space-y-2 ">
+        <div className="bg-white mt-4 shadow-xl rounded-lg flex flex-col pb-4  space-y-2 ">
           <h1 className="text-black font-semibold px-3 py-2">Categories</h1>
           <span className="cate">Cinema (3)</span>
           <span className="cate">Sports (10)</span>
@@ -43,7 +44,7 @@ function Home() {
           <span className="cate">Development (3)</span>
           <span className="cate">Cyber Security (12)</span>
         </div>
-        <div className="bg-white relative rounded-lg shadow-lg p-4 pb-10 space-y-3 w-[420px]">
+        <div className="bg-white relative rounded-lg shadow-lg p-4 pb-10 space-y-3 w-[420px] ">
           <h1 className="font-semibold">Recent Post</h1>
 
           <div className="flex space-x-2 items-center">

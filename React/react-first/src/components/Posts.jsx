@@ -28,7 +28,7 @@ function Posts() {
   const card = data.map((data) => {
     return (
       <div key={data.id}>
-        <div className="max-w-sm mt-2 mb-14">
+        <div className="max-w-sm mx-auto sm:ml-0 md:ml-0 mt-2 mb-14">
           <img
             src={data.img}
             alt="soori"
