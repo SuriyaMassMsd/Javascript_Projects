@@ -1,24 +1,29 @@
-import  data  from "../../server/server.json"
+import data from "../../server/server.json";
 
-const view = document.querySelector('tbody')
+const view = document.querySelector("tbody");
 
+data.map(function (data) {
+  details(data);
+});
 
-data.map(function(data){
-     
-      details(data)
-})
-
-
-
-function details({name,email,phoneNo,role,status,image}){
-
-  let tr = document.createElement('tr')
+function details({ name, email, phoneNo, role, status, image }) {
+  let tr = document.createElement("tr");
 
   tr.innerHTML = `
 
 
   <tr> 
-  <td class="flex px-4 py-3 justify-center items-center gap-4 font-semibold text-[#3c096c]"><div><img class="w-14 h-14 object-fill rounded-[50%]" src="${image}"/></div><span>${name}</span></td>
+  <td class=" px-10 py-3  items-center gap-4 font-semibold text-[#3c096c]">
+<div class="flex items-center gap-4">
+<div>
+<img class="w-14 h-14 object-fill rounded-[50%]" src="${image}"/>
+</div>
+<div>
+<span>${name}</span>
+</div>
+</div>
+  </td>
+  
   <td><div class="flex justify-center items-center gap-4">
     <a href="mailto:${email}">
       
@@ -33,8 +38,9 @@ function details({name,email,phoneNo,role,status,image}){
 </tr>
 
 
-` 
-view.append(tr)}
+`;
+  view.append(tr);
+}
 // }
 
 // console.log(data);
