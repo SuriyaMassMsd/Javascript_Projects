@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "colorName": "bgPrimary",
+    "text": "A simple primary alert—check it out!"
+  },
+  {
+    "id": 2,
+    "colorName": "bgSecondary",
+    "text": "A simple secondary alert—check it out!"
+  },
+  {
+    "id": 3,
+    "colorName": "bgSuccess",
+    "text": "A simple success alert—check it out!"
+  },
+  {
+    "id": 4,
+    "colorName": "bgDanger",
+    "text": "A simple danger alert—check it out!"
+  },
+  {
+    "id": 5,
+    "colorName": "bgWarning",
+    "text": "A simple warning alert—check it out!"
+  },
+  {
+    "id": 6,
+    "colorName": "bgInfo",
+    "text": "A simple info alert—check it out!"
+  },
+  {
+    "id": 7,
+    "colorName": "bgLight",
+    "text": "A simple light alert—check it out!"
+  },
+  {
+    "id": 8,
+    "colorName": "bgDark",
+    "text": "A simple dark alert—check it out!"
+  }
+]
+

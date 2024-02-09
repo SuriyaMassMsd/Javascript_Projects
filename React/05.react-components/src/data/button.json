@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "colorName": "Primary",
+    "colorCode": "#007bff",
+    "hoverColorCode": "#0056b3"
+  },
+  {
+    "id": 2,
+    "colorName": "Secondary",
+    "colorCode": "#6c757d",
+    "hoverColorCode": "#545b62"
+  },
+  {
+    "id": 3,
+    "colorName": "Success",
+    "colorCode": "#28a745",
+    "hoverColorCode": "#218838"
+  },
+  {
+    "id": 4,
+    "colorName": "Danger",
+    "colorCode": "#dc3545",
+    "hoverColorCode": "#c82333"
+  },
+  {
+    "id": 5,
+    "colorName": "Warning",
+    "colorCode": "#ffc107",
+    "hoverColorCode": "#e0a800"
+  },
+  {
+    "id": 6,
+    "colorName": "Info",
+    "colorCode": "#17a2b8",
+    "hoverColorCode": "#138496"
+  },
+  {
+    "id": 7,
+    "colorName": "Light",
+    "colorCode": "#f8f9fa",
+    "hoverColorCode": "#e2e6ea"
+  },
+  {
+    "id": 8,
+    "colorName": "Dark",
+    "colorCode": "#343a40",
+    "hoverColorCode": "#23272b"
+  }
+]

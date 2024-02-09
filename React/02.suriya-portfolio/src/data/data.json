@@ -1,0 +1,13 @@
+{
+
+    "name" : "Suriya",
+    "work" : "Full Stack Web Developer",
+    "desc" : "Web developer proficient in front-end and back-end technologies, creating responsive and dynamic websites with expertise in languages, frameworks, and databases.",
+    "img" : "../../public/images/img.png",
+    "about" : "I'm a passionate FullStack Web Developer, skilled in blending creativity and functionality for engaging user experiences",
+    "edu" : "I hold a B.Sc. degree in Physics, providing me with a strong foundation in analytical thinking and problem-solving. This academic background enriches my approach to web development, allowing me to blend technical skills with a holistic understanding of the world",
+    
+   "road" : "I am fueled by a passion for creating seamless digital experiences that leave a lasting impression. Whether it's coding a dynamic webpage, implementing robust server-side functionalities, or crafting the perfect meme, I love the challenge of bringing ideas to life.",
+   "connect" : "I am always open to new opportunities, collaborations, and discussions. Feel free to reach out to me; let's create something amazing together!"
+ }
+

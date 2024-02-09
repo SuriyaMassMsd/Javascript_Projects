@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgPrimary {
+    @apply bg-[#031633] font-poppins  text-[#6ea8fe]  border-[#084298];
+  }
+  
+  .bgSuccess {
+    @apply bg-[#155724] font-poppins  text-[#28a745]  border-[#1e7e34];
+  }
+  
+  .bgDanger {
+    @apply bg-[#721c24] font-poppins text-[#dc3545]  border-[#c82333];
+  }
+  
+  .bgWarning {
+    @apply bg-[#856404] font-poppins text-[#ffc107]  border-[#ffc107];
+  }
+  
+  .bgInfo {
+    @apply bg-[#0c5460] font-poppins text-[#17a2b8]  border-[#17a2b8];
+  }
+  
+  .bgLight {
+    @apply bg-[#f8f9fa] font-poppins text-[#343a40]  border-[#6c757d];
+  }
+  
+  .bgDark {
+    @apply bg-[#343a40] font-poppins text-[#adb5bd]  border-[#343a40];
+  }
+
+  .bgSecondary {
+    @apply bg-[#161719] font-poppins text-[#a7acb1] border-[#41464b];
+  }
+  
