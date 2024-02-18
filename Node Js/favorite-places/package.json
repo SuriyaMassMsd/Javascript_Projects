@@ -1,0 +1,11 @@
+{
+  "name": "favorite-places",
+  "version": "1.0.0",
+  "description": "creating folders and filled with my favorite palces info using NodeJs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suriya K",
+  "license": "MIT"
+}

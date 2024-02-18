@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "place": "Chennai",
+    "favorites": {
+      "places": [
+        {
+          "name": "marinabeach",
+          "description": "India's longest and world's second-longest beach. Extends nearly 12 kilometers along the Bay of Bengal. Renovated by Governor Mountstuart Elphinstone Grant Duff in the 1880s.",
+          "map": "https://goo.gl/maps/N7wGfdpZyLnwMQsG8",
+          "time": "Open 24 hours",
+          "average_money": "INR 0 - 500"
+        },
+        {
+          "name": "dakshinachitra",
+          "description": "A living-history museum in Tamil Nadu, dedicated to South Indian heritage and culture. Opened to the public on 14 December 1996, managed by the Madras Craft Foundation.",
+          "map": "https://goo.gl/maps/DB2wuQK3dFLNsTtd8",
+          "time": "9:30 AM - 6:00 PM (Closed on Tuesdays)",
+          "average_money": "INR 100 - 300"
+        },
+        {
+          "name": "governmentmuseum",
+          "description": "Madras Museum, a museum of human history and culture located in the Government Museum Complex in Egmore, Chennai. Started in 1851, it is the second oldest museum in India after the Indian Museum in Kolkata.",
+          "map": "https://goo.gl/maps/9YWQgTXxLzm7Q4HEA",
+          "time": "9:30 AM - 5:00 PM (Closed on Fridays)",
+          "average_money": "INR 50 - 200"
+        },
+        {
+          "name": "besantnagarbeach",
+          "description": "A popular beach in Chennai, known for its clean and serene environment. Ideal for relaxation.",
+          "map": "https://goo.gl/maps/4eDFvH95smYvprqZA",
+          "time": "Open 24 hours",
+          "average_money": "INR 0 - 200"
+        },
+        {
+          "name": "kapaleeshwarartemple",
+          "description": "An ancient Hindu temple in Mylapore, Chennai, dedicated to Lord Shiva. The temple's Dravidian architecture and vibrant festivals make it a significant cultural and religious landmark in the city.",
+          "map": "https://goo.gl/maps/eDbtoXw6SXDHTP8K8",
+          "time": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+          "average_money": "INR 0 - 100"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "place": "Puducherry",
+    "favorites": {
+      "places": [
+        {
+          "name": "promenadebeach",
+          "description": "A popular stretch of beachfront in Puducherry known for its picturesque promenade. Ideal for evening strolls and recreational activities.",
+          "map": "https://goo.gl/maps/vg1LWsRjtVXKwGp76",
+          "time": "Open 24 hours",
+          "average_money": "INR 0 - 300"
+        },
+        {
+          "name": "auroville",
+          "description": "An experimental township and a universal city near Puducherry, founded with the vision of promoting human unity. Auroville is known for its unique architecture, community living, and the Matrimandir, a golden metallic sphere.",
+          "map": "https://goo.gl/maps/5cPEYuzbUuf35nvM9",
+          "time": "9:30 AM - 4:30 PM",
+          "average_money": "INR 0 - 500"
+        },
+        {
+          "name": "frenchquarter",
+          "description": "The French Quarter in Puducherry is characterized by charming streets, colonial-style buildings, and French influences. It offers a nostalgic experience with its vibrant cafes, boutiques, and architecture.",
+          "map": "https://goo.gl/maps/RbWDn2D5aMUtQm6e9",
+          "time": "Open all day",
+          "average_money": "INR 100 - 400"
+        },
+        {
+          "name": "paradisebeach",
+          "description": "A pristine and secluded beach near Puducherry, accessible by boat. Paradise Beach is known for its white sand, clear blue waters, and tranquil surroundings, providing an ideal escape from the hustle and bustle.",
+          "map": "https://goo.gl/maps/GfWgezT3DznEJB1W7",
+          "time": "9:00 AM - 5:00 PM",
+          "average_money": "INR 0 - 200"
+        },
+        {
+          "name": "arikamedu",
+          "description": "An archaeological site near Puducherry that reveals ancient Roman trade connections. Arikamedu showcases the historical importance of the region in maritime trade during ancient times.",
+          "map": "https://goo.gl/maps/zZ3VeQMyUkNX34NY7",
+          "time": "Open 24 hours",
+          "average_money": "INR 0 - 100"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "place": "Cuddalore",
+    "favorites": {
+      "places": [
+        {
+          "name": "silverbeach",
+          "description": "A beautiful and serene beach in Cuddalore with silver-colored sand and calm waves. It is a perfect spot for a peaceful day by the sea.",
+          "map": "https://goo.gl/maps/F5fB8UTRkK7q9rCC7",
+          "time": "Open 24 hours",
+          "average_money": "INR 0 - 200"
+        },
+        {
+          "name": "padaleeswarartemple",
+          "description": "An ancient Hindu temple dedicated to Lord Shiva, located in Cuddalore. The temple's architecture and religious significance make it a notable place for worship and cultural exploration.",
+          "map": "https://goo.gl/maps/MhBNE2K1fDQUop1B7",
+          "time": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+          "average_money": "INR 0 - 100"
+        },
+        {
+          "name": "devanayakiammantemple",
+          "description": "A historic temple in Cuddalore dedicated to Goddess Devanayaki Amman. The temple attracts devotees and visitors alike with its cultural and religious importance.",
+          "map": "https://goo.gl/maps/sB2y2P1dTrj4PYZL6",
+          "time": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+          "average_money": "INR 0 - 50"
+        },
+        {
+          "name": "fortstdavid",
+          "description": "A historical fort in Cuddalore built by the British East India Company. The fort has played a crucial role in the region's colonial history and offers insights into the past.",
+          "map": "https://goo.gl/maps/YTtGfxQn2efL1GpD8",
+          "time": "9:00 AM - 5:00 PM",
+          "average_money": "INR 0 - 100"
+        },
+        {
+          "name": "thiruvahindrapuramtemple",
+          "description": "An ancient temple near Cuddalore known for architectural beauty and spiritual significance. The temple is dedicated to Lord Devanayaka Perumal and attracts devotees from the region.",
+          "map": "https://goo.gl/maps/YsWg1cfRPKw7mizt8",
+          "time": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+          "average_money": "INR 0 - 50"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "place": "Trichy",
+    "favorites": {
+      "places": [
+        {
+          "name": "rockforttemple",
+          "description": "A historic temple complex perched on a rock in Trichy. The Rockfort Temple is dedicated to Lord Ganesha and Lord Shiva and offers panoramic views of the surrounding landscape.",
+          "map": "https://goo.gl/maps/AonESopUT1tHQtWz7",
+          "time": "6:00 AM - 8:00 PM",
+          "average_money": "INR 0 - 50"
+        },
+        {
+          "name": "sriranganathaswamytemple",
+          "description": "One of the largest functioning temples in the world, located on Srirangam Island in Trichy. The temple is dedicated to Lord Ranganatha, a form of Lord Vishnu, and is a significant pilgrimage site.",
+          "map": "https://goo.gl/maps/31M3HyrCrxTAdEde7",
+          "time": "6:00 AM - 9:00 PM",
+          "average_money": "INR 0 - 100"
+        },
+        {
+          "name": "jambukeswarartemple",
+          "description": "A renowned Shiva temple located in Thiruvanaikaval, near Trichy. The temple is dedicated to Lord Jambukeswarar and is one of the Pancha Bhoota Stalas representing the element of water.",
+          "map": "https://goo.gl/maps/9Rs8N4tfZmPAaRiE6",
+          "time": "6:00 AM - 1:00 PM, 4:00 PM - 9:00 PM",
+          "average_money": "INR 0 - 50"
+        },
+        {
+          "name": "kallanaidam",
+          "description": "An ancient dam built across the Kaveri River near Trichy. Also known as the Grand Anicut, it is one of the oldest water-diversion structures in the world and a testament to ancient engineering.",
+          "map": "https://goo.gl/maps/B2Ug77bRbkD9bftW9",
+          "time": "Open 24 hours",
+          "average_money": "INR 0 - 50"
+        },
+        {
+          "name": "rajagopalaswamytemple",
+          "description": "A temple dedicated to Lord Krishna, located in Mannargudi near Trichy. The temple is known for its architectural grandeur and cultural significance in the region.",
+          "map": "https://goo.gl/maps/A27dqfsx3tpa2vRy7",
+          "time": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+          "average_money": "INR 0 - 50"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "place": "Madurai",
+    "favorites": {
+      "places": [
+        {
+          "name": "meenakshiammantemple",
+          "description": "A historic and iconic temple in Madurai dedicated to Goddess Meenakshi and Lord Sundareswarar. The temple complex is known for its intricate architecture, vibrant sculptures, and cultural festivals.",
+          "map": "https://goo.gl/maps/4wZgV47N1vRNCMC68",
+          "time": "6:00 AM - 12:30 PM, 4:00 PM - 10:00 PM",
+          "average_money": "INR 0 - 100"
+        },
+        {
+          "name": "thirumalainayakkarpalace",
+          "description": "A palace built in 1636 by King Thirumalai Nayak in Madurai. The palace showcases a blend of Dravidian and Islamic architectural styles and is known for its grandeur and historical significance.",
+          "map": "https://goo.gl/maps/jcN3QCoMkmJt9atx9",
+          "time": "9:00 AM - 5:00 PM",
+          "average_money": "INR 0 - 50"
+        },
+        {
+          "name": "gandhimemorialmuseum",
+          "description": "A museum in Madurai dedicated to Mahatma Gandhi and the Indian independence movement. The museum houses exhibits and artifacts related to Gandhi's life and the struggle for freedom.",
+          "map": "https://goo.gl/maps/fpbr6c2NvUxV3fQ9A",
+          "time": "10:00 AM - 5:45 PM",
+          "average_money": "INR 0 - 50"
+        },
+        {
+          "name": "koodalazhagartemple",
+          "description": "A Vishnu temple in Madurai, known for its ancient architecture and religious significance. The temple is dedicated to Lord Koodal Azhagar, an incarnation of Lord Vishnu.",
+          "map": "https://goo.gl/maps/e8MSVfq3j3TboQQj7",
+          "time": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+          "average_money": "INR 0 - 50"
+        },
+        {
+          "name": "vaigaidam",
+          "description": "An important dam across the Vaigai River near Madurai. The dam provides water for irrigation and is surrounded by scenic landscapes, making it a popular spot for visitors.",
+          "map": "https://goo.gl/maps/d8NU5NhJcPHFFJ4A8",
+          "time": "Open 24 hours",
+          "average_money": "INR 0 - 50"
+        }
+      ]
+    }
+  }
+]
